@@ -1,0 +1,20 @@
+{
+"status_code": 0,
+"user": {
+"uid": "7357567600870308024",
+"sec_uid": "SEC_DEMO_demo_a",
+"unique_id": "demo_a",
+"nickname": "示例账号A",
+"follower_count": 86000,
+"max_follower_count": 89500,
+"following_count": 78,
+"total_favorited": 121299,
+"aweme_count": 48,
+"favoriting_count": 79,
+"gender": 2,
+"signature": "这是合成的示例账号，用于演示报告格式",
+"ip_location": "IP属地：广东",
+"custom_verify": "",
+"enterprise_verify_reason": ""
+}
+}

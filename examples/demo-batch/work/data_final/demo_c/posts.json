@@ -1,0 +1,1602 @@
+[
+ {
+  "aweme_id": "7300387232188325321",
+  "desc": "示例作品第 64 条 #家常菜",
+  "create_time": 1773387979,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 75000,
+  "stats": {
+   "digg_count": 296,
+   "comment_count": 12,
+   "collect_count": 26,
+   "share_count": 10,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300796436446150241",
+  "desc": "示例作品第 63 条 #家常菜",
+  "create_time": 1772837280,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 61000,
+  "stats": {
+   "digg_count": 343,
+   "comment_count": 14,
+   "collect_count": 31,
+   "share_count": 12,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300104679534882057",
+  "desc": "示例作品第 62 条 #家常菜",
+  "create_time": 1772429380,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 76000,
+  "stats": {
+   "digg_count": 344,
+   "comment_count": 14,
+   "collect_count": 31,
+   "share_count": 12,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300803359373463291",
+  "desc": "示例作品第 61 条 #探店",
+  "create_time": 1771832465,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 53000,
+  "stats": {
+   "digg_count": 387,
+   "comment_count": 16,
+   "collect_count": 35,
+   "share_count": 14,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300610687819885833",
+  "desc": "示例作品第 60 条 #探店",
+  "create_time": 1771300503,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 31000,
+  "stats": {
+   "digg_count": 248,
+   "comment_count": 10,
+   "collect_count": 22,
+   "share_count": 9,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300124831000756112",
+  "desc": "示例作品第 59 条 #美食",
+  "create_time": 1770786271,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 78000,
+  "stats": {
+   "digg_count": 399,
+   "comment_count": 16,
+   "collect_count": 36,
+   "share_count": 14,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300231167514999751",
+  "desc": "示例作品第 58 条 #探店",
+  "create_time": 1770308493,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 40000,
+  "stats": {
+   "digg_count": 227,
+   "comment_count": 9,
+   "collect_count": 20,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300781337450994128",
+  "desc": "示例作品第 57 条 #探店",
+  "create_time": 1769808572,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 84000,
+  "stats": {
+   "digg_count": 360,
+   "comment_count": 15,
+   "collect_count": 32,
+   "share_count": 13,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300104861246645204",
+  "desc": "示例作品第 56 条 #探店",
+  "create_time": 1769170808,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 72000,
+  "stats": {
+   "digg_count": 282,
+   "comment_count": 11,
+   "collect_count": 25,
+   "share_count": 10,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300874104260653057",
+  "desc": "示例作品第 55 条 #做饭",
+  "create_time": 1768687989,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 38000,
+  "stats": {
+   "digg_count": 371,
+   "comment_count": 15,
+   "collect_count": 33,
+   "share_count": 13,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300996276445804305",
+  "desc": "示例作品第 54 条 #探店",
+  "create_time": 1768251880,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 20000,
+  "stats": {
+   "digg_count": 221,
+   "comment_count": 9,
+   "collect_count": 20,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300594680625984787",
+  "desc": "示例作品第 53 条 #做饭",
+  "create_time": 1767800448,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 57000,
+  "stats": {
+   "digg_count": 389,
+   "comment_count": 16,
+   "collect_count": 35,
+   "share_count": 14,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300866180718747998",
+  "desc": "示例作品第 52 条 #美食",
+  "create_time": 1767185585,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 16000,
+  "stats": {
+   "digg_count": 394,
+   "comment_count": 16,
+   "collect_count": 35,
+   "share_count": 14,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300688425154957119",
+  "desc": "示例作品第 51 条 #做饭",
+  "create_time": 1766734311,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 28000,
+  "stats": {
+   "digg_count": 267,
+   "comment_count": 11,
+   "collect_count": 24,
+   "share_count": 9,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300828716666305410",
+  "desc": "示例作品第 50 条 #做饭",
+  "create_time": 1766159437,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 76000,
+  "stats": {
+   "digg_count": 451,
+   "comment_count": 19,
+   "collect_count": 41,
+   "share_count": 16,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300916347391520397",
+  "desc": "示例作品第 49 条 #美食",
+  "create_time": 1765732188,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 50000,
+  "stats": {
+   "digg_count": 335,
+   "comment_count": 14,
+   "collect_count": 30,
+   "share_count": 12,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300458223557167492",
+  "desc": "示例作品第 48 条 #美食",
+  "create_time": 1765137689,
+  "is_top": 1,
+  "aweme_type": 0,
+  "duration": 35000,
+  "stats": {
+   "digg_count": 9000,
+   "comment_count": 30,
+   "collect_count": 64,
+   "share_count": 25,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300534829353998117",
+  "desc": "示例作品第 47 条 #做饭",
+  "create_time": 1764688220,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 35000,
+  "stats": {
+   "digg_count": 327,
+   "comment_count": 13,
+   "collect_count": 29,
+   "share_count": 11,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300629341063107605",
+  "desc": "示例作品第 46 条 #探店",
+  "create_time": 1764140922,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 40000,
+  "stats": {
+   "digg_count": 304,
+   "comment_count": 12,
+   "collect_count": 27,
+   "share_count": 11,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300505367837059255",
+  "desc": "示例作品第 45 条 #探店",
+  "create_time": 1763657366,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 77000,
+  "stats": {
+   "digg_count": 484,
+   "comment_count": 20,
+   "collect_count": 44,
+   "share_count": 17,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300686282957191562",
+  "desc": "示例作品第 44 条 #做饭",
+  "create_time": 1763120090,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 42000,
+  "stats": {
+   "digg_count": 644,
+   "comment_count": 27,
+   "collect_count": 58,
+   "share_count": 23,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300620704247696909",
+  "desc": "示例作品第 43 条 #做饭",
+  "create_time": 1762486418,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 67000,
+  "stats": {
+   "digg_count": 221,
+   "comment_count": 9,
+   "collect_count": 20,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300600224251523187",
+  "desc": "示例作品第 42 条 #做饭",
+  "create_time": 1761990845,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 51000,
+  "stats": {
+   "digg_count": 277,
+   "comment_count": 11,
+   "collect_count": 25,
+   "share_count": 10,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300684014088538911",
+  "desc": "示例作品第 41 条 #做饭",
+  "create_time": 1761458577,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 46000,
+  "stats": {
+   "digg_count": 371,
+   "comment_count": 15,
+   "collect_count": 33,
+   "share_count": 13,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300262237564160436",
+  "desc": "示例作品第 40 条 #探店",
+  "create_time": 1761068212,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 90000,
+  "stats": {
+   "digg_count": 208,
+   "comment_count": 8,
+   "collect_count": 18,
+   "share_count": 7,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300343263230741596",
+  "desc": "示例作品第 39 条 #探店",
+  "create_time": 1760445053,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 52000,
+  "stats": {
+   "digg_count": 134,
+   "comment_count": 5,
+   "collect_count": 12,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300854162065567928",
+  "desc": "示例作品第 38 条 #做饭",
+  "create_time": 1759967704,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 88000,
+  "stats": {
+   "digg_count": 161,
+   "comment_count": 6,
+   "collect_count": 14,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300893891502218658",
+  "desc": "示例作品第 37 条 #美食",
+  "create_time": 1759436925,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 59000,
+  "stats": {
+   "digg_count": 161,
+   "comment_count": 6,
+   "collect_count": 14,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300779241204061455",
+  "desc": "示例作品第 36 条 #家常菜",
+  "create_time": 1758960860,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 44000,
+  "stats": {
+   "digg_count": 337,
+   "comment_count": 14,
+   "collect_count": 30,
+   "share_count": 12,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300504575013312581",
+  "desc": "示例作品第 35 条 #家常菜",
+  "create_time": 1758473578,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 29000,
+  "stats": {
+   "digg_count": 349,
+   "comment_count": 14,
+   "collect_count": 31,
+   "share_count": 12,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300466735409439196",
+  "desc": "示例作品第 34 条 #探店",
+  "create_time": 1757764581,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 29000,
+  "stats": {
+   "digg_count": 202,
+   "comment_count": 8,
+   "collect_count": 18,
+   "share_count": 7,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300236497499703983",
+  "desc": "示例作品第 33 条 #做饭",
+  "create_time": 1757363675,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 37000,
+  "stats": {
+   "digg_count": 820,
+   "comment_count": 34,
+   "collect_count": 74,
+   "share_count": 29,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300734448021289590",
+  "desc": "示例作品第 32 条 #探店",
+  "create_time": 1756863909,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 59000,
+  "stats": {
+   "digg_count": 442,
+   "comment_count": 18,
+   "collect_count": 40,
+   "share_count": 16,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300672910013973844",
+  "desc": "示例作品第 31 条 #家常菜",
+  "create_time": 1756311047,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 25000,
+  "stats": {
+   "digg_count": 184,
+   "comment_count": 7,
+   "collect_count": 16,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300785588612252012",
+  "desc": "示例作品第 30 条 #探店",
+  "create_time": 1755770915,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 70000,
+  "stats": {
+   "digg_count": 382,
+   "comment_count": 16,
+   "collect_count": 34,
+   "share_count": 13,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300142486492074898",
+  "desc": "示例作品第 29 条 #美食",
+  "create_time": 1755322478,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 49000,
+  "stats": {
+   "digg_count": 186,
+   "comment_count": 7,
+   "collect_count": 16,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300527152481003190",
+  "desc": "示例作品第 28 条 #探店",
+  "create_time": 1754694512,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 60000,
+  "stats": {
+   "digg_count": 147,
+   "comment_count": 6,
+   "collect_count": 13,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300255537143113609",
+  "desc": "示例作品第 27 条 #做饭",
+  "create_time": 1754218258,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 55000,
+  "stats": {
+   "digg_count": 115,
+   "comment_count": 4,
+   "collect_count": 10,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300890013990756791",
+  "desc": "示例作品第 26 条 #家常菜",
+  "create_time": 1753654398,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 43000,
+  "stats": {
+   "digg_count": 260,
+   "comment_count": 11,
+   "collect_count": 23,
+   "share_count": 9,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300807390799912288",
+  "desc": "示例作品第 25 条 #家常菜",
+  "create_time": 1753282103,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 22000,
+  "stats": {
+   "digg_count": 311,
+   "comment_count": 13,
+   "collect_count": 28,
+   "share_count": 11,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300458059648933516",
+  "desc": "示例作品第 24 条 #美食",
+  "create_time": 1752608553,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 22000,
+  "stats": {
+   "digg_count": 359,
+   "comment_count": 15,
+   "collect_count": 32,
+   "share_count": 13,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300218221329682096",
+  "desc": "示例作品第 23 条 #做饭",
+  "create_time": 1752170314,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 86000,
+  "stats": {
+   "digg_count": 233,
+   "comment_count": 9,
+   "collect_count": 21,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300864552863775810",
+  "desc": "示例作品第 22 条 #做饭",
+  "create_time": 1751590517,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 24000,
+  "stats": {
+   "digg_count": 244,
+   "comment_count": 10,
+   "collect_count": 22,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300707065323628305",
+  "desc": "示例作品第 21 条 #探店",
+  "create_time": 1751186494,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 57000,
+  "stats": {
+   "digg_count": 486,
+   "comment_count": 20,
+   "collect_count": 44,
+   "share_count": 17,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300681361151267614",
+  "desc": "示例作品第 20 条 #家常菜",
+  "create_time": 1750505700,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 88000,
+  "stats": {
+   "digg_count": 271,
+   "comment_count": 11,
+   "collect_count": 24,
+   "share_count": 9,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300835509332528602",
+  "desc": "示例作品第 19 条 #做饭",
+  "create_time": 1750026415,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 32000,
+  "stats": {
+   "digg_count": 607,
+   "comment_count": 25,
+   "collect_count": 55,
+   "share_count": 22,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300157454128873087",
+  "desc": "示例作品第 18 条 #探店",
+  "create_time": 1749614445,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 47000,
+  "stats": {
+   "digg_count": 227,
+   "comment_count": 9,
+   "collect_count": 20,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300559538261904573",
+  "desc": "示例作品第 17 条 #探店",
+  "create_time": 1749057597,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 75000,
+  "stats": {
+   "digg_count": 200,
+   "comment_count": 8,
+   "collect_count": 18,
+   "share_count": 7,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300852017112554143",
+  "desc": "示例作品第 16 条 #美食",
+  "create_time": 1748449246,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 65000,
+  "stats": {
+   "digg_count": 808,
+   "comment_count": 34,
+   "collect_count": 73,
+   "share_count": 29,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300910248717283219",
+  "desc": "示例作品第 15 条 #美食",
+  "create_time": 1748073957,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 17000,
+  "stats": {
+   "digg_count": 226,
+   "comment_count": 9,
+   "collect_count": 20,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300584131004249561",
+  "desc": "示例作品第 14 条 #探店",
+  "create_time": 1747471233,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 67000,
+  "stats": {
+   "digg_count": 167,
+   "comment_count": 7,
+   "collect_count": 15,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300363621364856879",
+  "desc": "示例作品第 13 条 #做饭",
+  "create_time": 1746922055,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 12000,
+  "stats": {
+   "digg_count": 487,
+   "comment_count": 20,
+   "collect_count": 44,
+   "share_count": 17,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300251789963432420",
+  "desc": "示例作品第 12 条 #做饭",
+  "create_time": 1746493624,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 72000,
+  "stats": {
+   "digg_count": 339,
+   "comment_count": 14,
+   "collect_count": 30,
+   "share_count": 12,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "家常菜"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300321370070865001",
+  "desc": "示例作品第 11 条 #探店",
+  "create_time": 1745964099,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 59000,
+  "stats": {
+   "digg_count": 154,
+   "comment_count": 6,
+   "collect_count": 14,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300286191860870876",
+  "desc": "示例作品第 10 条 #探店",
+  "create_time": 1745316340,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 28000,
+  "stats": {
+   "digg_count": 240,
+   "comment_count": 10,
+   "collect_count": 21,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300448745803887038",
+  "desc": "示例作品第 9 条 #做饭",
+  "create_time": 1744928813,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 83000,
+  "stats": {
+   "digg_count": 966,
+   "comment_count": 40,
+   "collect_count": 87,
+   "share_count": 35,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300826113171257994",
+  "desc": "示例作品第 8 条 #美食",
+  "create_time": 1744302845,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 74000,
+  "stats": {
+   "digg_count": 363,
+   "comment_count": 15,
+   "collect_count": 33,
+   "share_count": 13,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300382921311063197",
+  "desc": "示例作品第 7 条 #家常菜",
+  "create_time": 1743831351,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 20000,
+  "stats": {
+   "digg_count": 221,
+   "comment_count": 9,
+   "collect_count": 20,
+   "share_count": 8,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "美食",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300340298760539583",
+  "desc": "示例作品第 6 条 #家常菜",
+  "create_time": 1743396056,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 69000,
+  "stats": {
+   "digg_count": 304,
+   "comment_count": 12,
+   "collect_count": 27,
+   "share_count": 11,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "探店"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300584102869740067",
+  "desc": "示例作品第 5 条 #做饭",
+  "create_time": 1742743039,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 89000,
+  "stats": {
+   "digg_count": 436,
+   "comment_count": 18,
+   "collect_count": 39,
+   "share_count": 15,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300145321251427339",
+  "desc": "示例作品第 4 条 #做饭",
+  "create_time": 1742224029,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 80000,
+  "stats": {
+   "digg_count": 477,
+   "comment_count": 20,
+   "collect_count": 43,
+   "share_count": 17,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300862125260150165",
+  "desc": "示例作品第 3 条 #探店",
+  "create_time": 1741818776,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 67000,
+  "stats": {
+   "digg_count": 286,
+   "comment_count": 12,
+   "collect_count": 26,
+   "share_count": 10,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "探店",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300102302889600770",
+  "desc": "示例作品第 2 条 #探店",
+  "create_time": 1741245224,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 85000,
+  "stats": {
+   "digg_count": 816,
+   "comment_count": 34,
+   "collect_count": 74,
+   "share_count": 29,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "家常菜",
+   "做饭"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ },
+ {
+  "aweme_id": "7300628842712188922",
+  "desc": "示例作品第 1 条 #美食",
+  "create_time": 1740698730,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 26000,
+  "stats": {
+   "digg_count": 141,
+   "comment_count": 6,
+   "collect_count": 12,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "做饭",
+   "美食"
+  ],
+  "video_tag": [
+   "美食"
+  ],
+  "author_uid": "7283350565168378165"
+ }
+]

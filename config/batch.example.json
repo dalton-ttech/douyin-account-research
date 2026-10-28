@@ -1,0 +1,48 @@
+{
+  "_说明": "复制为 config/<批次名>.json（该目录下除本示例外的 json 不会提交），按需修改。以下划线开头的键是注释，脚本会忽略。相对路径按本文件所在目录解析。",
+  "batch": "batch-001",
+
+  "_路径": "工作目录放采集数据和中间结果；预览目录放报告、截图和 PDF。都建议放在仓库外、空间充足的磁盘上。",
+  "work_dir": "C:/douyin-research/batch-001/work",
+  "preview_dir": "C:/douyin-research/batch-001/preview",
+  "preview_url": "",
+
+  "_账号清单": "二选一：listing 指向工作目录里的挂牌清单文件；或直接在 accounts 里列出（字符串 id，或 {id, line} / {id, nickname, listing_fans, category, portrait, status}）。写了 accounts 就不再读 listing，用 listing 时请删掉 accounts。",
+  "listing": "listing/filtered.json",
+  "accounts": [
+    {"id": "demo_a", "line": "抖音:demo_a---示例账号A---8.6万粉丝---亲子号-----未认证62中间女粉---三无"},
+    {"id": "demo_b", "nickname": "示例账号B", "listing_fans": 250000, "category": "剧情号", "portrait": "未认证55中间女粉", "status": "三无"},
+    "demo_c"
+  ],
+  "qual": "qual.json",
+
+  "_筛选": "挂牌截图筛选用（docs/WORKFLOW.md 1.5 节），由筛选代理读取，脚本不用。exclude_types：类型包含任一词即剔除；exceptions：包含剔除词、但要单列请用户确认的类型；similar：与已剔除类型近似、要单列问用户的类型（值是它像哪个词）；borderline：其他要单列问用户的类型；main_types：分组时排在前面的主力类型。用户每次补充剔除词都追加到这里，并对全部挂牌行重新应用全部词。下面是实际用过的词，按需增删。",
+  "listing_filter": {
+    "exclude_types": ["颜值", "美女", "帅哥", "搞笑", "段子", "剧情", "短剧", "解说", "剪辑", "种草", "好物", "木雕", "手艺", "萌宠", "宠物", "测评", "蛋仔", "文案", "音乐", "动漫", "二次元", "手工"],
+    "exceptions": ["亲子种草", "亲子剧情"],
+    "similar": {"动物": "萌宠", "手作": "手工"},
+    "borderline": [],
+    "main_types": ["亲子", "育婴", "母婴"],
+    "exclude_portrait": ["后排男粉", "%男粉"],
+    "min_female_pct": 55
+  },
+
+  "_报告": "mode：simple（默认，手机 HTML + 390×844 手机 PDF）或 full（桌面 HTML + A4 PDF）。title/cover_* 里的 {n} 会替换成账号数。",
+  "mode": "simple",
+  "title": "{n} 个待购抖音号：粉丝质量调研报告",
+  "cover_title": "抖音账号粉丝质量调研报告",
+  "cover_subtitle": "{n} 个待收购账号",
+  "cover_sources": "抖音网页公开数据采集、巨量星图、红狐数据",
+  "data_sources": "抖音网页端只读采集、红狐 API、巨量星图",
+  "date": "2026-10-01",
+  "analysis_time": "2026-10-01 12:00",
+  "collect_time": "2026-10-01 10:00~13:30",
+  "short_names": {"某某文化传媒有限公司": "某某文化"},
+
+  "_红狐": "预算按成功调用次数估算；密钥只从环境变量 REDFOX_API_KEY 读取，不要写进这里。",
+  "redfox_budget": 200,
+  "redfox_reserve": 20,
+
+  "_edge": "Edge 路径，留空自动查找（也可用环境变量 EDGE_PATH）。",
+  "edge": null
+}

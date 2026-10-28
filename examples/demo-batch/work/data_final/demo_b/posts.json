@@ -1,0 +1,902 @@
+[
+ {
+  "aweme_id": "7300108220019118185",
+  "desc": "示例作品第 36 条 #剧情",
+  "create_time": 1778546507,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 71000,
+  "stats": {
+   "digg_count": 104,
+   "comment_count": 4,
+   "collect_count": 6,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "搞笑",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300828814466687747",
+  "desc": "示例作品第 35 条 #搞笑",
+  "create_time": 1777867820,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 52000,
+  "stats": {
+   "digg_count": 112,
+   "comment_count": 4,
+   "collect_count": 7,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300916914475508719",
+  "desc": "示例作品第 34 条 #短剧",
+  "create_time": 1776992839,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 58000,
+  "stats": {
+   "digg_count": 280,
+   "comment_count": 11,
+   "collect_count": 18,
+   "share_count": 7,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300574812412242534",
+  "desc": "示例作品第 33 条 #剧情",
+  "create_time": 1776311099,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 63000,
+  "stats": {
+   "digg_count": 142,
+   "comment_count": 5,
+   "collect_count": 9,
+   "share_count": 3,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300297201263509156",
+  "desc": "示例作品第 32 条 #情感",
+  "create_time": 1775407910,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 72000,
+  "stats": {
+   "digg_count": 70,
+   "comment_count": 2,
+   "collect_count": 4,
+   "share_count": 1,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "搞笑",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300730848585315168",
+  "desc": "示例作品第 31 条 #情感",
+  "create_time": 1774769353,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 31000,
+  "stats": {
+   "digg_count": 149,
+   "comment_count": 5,
+   "collect_count": 9,
+   "share_count": 3,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300751402165485383",
+  "desc": "示例作品第 30 条 #情感",
+  "create_time": 1773912327,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 43000,
+  "stats": {
+   "digg_count": 360,
+   "comment_count": 14,
+   "collect_count": 24,
+   "share_count": 9,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300177617830758098",
+  "desc": "示例作品第 29 条 #剧情",
+  "create_time": 1773206561,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 78000,
+  "stats": {
+   "digg_count": 115,
+   "comment_count": 4,
+   "collect_count": 7,
+   "share_count": 3,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300203851144131390",
+  "desc": "示例作品第 28 条 #剧情",
+  "create_time": 1772327164,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 32000,
+  "stats": {
+   "digg_count": 82,
+   "comment_count": 3,
+   "collect_count": 5,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300178032048031653",
+  "desc": "示例作品第 27 条 #情感",
+  "create_time": 1771580774,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 74000,
+  "stats": {
+   "digg_count": 224,
+   "comment_count": 8,
+   "collect_count": 14,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300133168288764218",
+  "desc": "示例作品第 26 条 #剧情",
+  "create_time": 1770771756,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 74000,
+  "stats": {
+   "digg_count": 255,
+   "comment_count": 10,
+   "collect_count": 17,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300876414908191418",
+  "desc": "示例作品第 25 条 #情感",
+  "create_time": 1769984328,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 44000,
+  "stats": {
+   "digg_count": 164,
+   "comment_count": 6,
+   "collect_count": 10,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300551206998218786",
+  "desc": "示例作品第 24 条 #短剧",
+  "create_time": 1769205088,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 58000,
+  "stats": {
+   "digg_count": 151,
+   "comment_count": 6,
+   "collect_count": 10,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300495104197587237",
+  "desc": "示例作品第 23 条 #情感",
+  "create_time": 1768559991,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 63000,
+  "stats": {
+   "digg_count": 197,
+   "comment_count": 7,
+   "collect_count": 13,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300518312111477811",
+  "desc": "示例作品第 22 条 #短剧",
+  "create_time": 1767683251,
+  "is_top": 1,
+  "aweme_type": 0,
+  "duration": 25000,
+  "stats": {
+   "digg_count": 52000,
+   "comment_count": 9,
+   "collect_count": 15,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300934825006512136",
+  "desc": "示例作品第 21 条 #情感",
+  "create_time": 1766879273,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 36000,
+  "stats": {
+   "digg_count": 225,
+   "comment_count": 9,
+   "collect_count": 15,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300772317294019844",
+  "desc": "示例作品第 20 条 #剧情",
+  "create_time": 1766229440,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 73000,
+  "stats": {
+   "digg_count": 79,
+   "comment_count": 3,
+   "collect_count": 5,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300319192252550136",
+  "desc": "示例作品第 19 条 #短剧",
+  "create_time": 1765454873,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 60000,
+  "stats": {
+   "digg_count": 158,
+   "comment_count": 6,
+   "collect_count": 10,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300268788812464822",
+  "desc": "示例作品第 18 条 #剧情",
+  "create_time": 1764661285,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 90000,
+  "stats": {
+   "digg_count": 288,
+   "comment_count": 11,
+   "collect_count": 19,
+   "share_count": 7,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300210507697816626",
+  "desc": "示例作品第 17 条 #情感",
+  "create_time": 1763721231,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 38000,
+  "stats": {
+   "digg_count": 144,
+   "comment_count": 5,
+   "collect_count": 9,
+   "share_count": 3,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300661596002094956",
+  "desc": "示例作品第 16 条 #短剧",
+  "create_time": 1763064074,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 41000,
+  "stats": {
+   "digg_count": 96,
+   "comment_count": 3,
+   "collect_count": 6,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300823252792057400",
+  "desc": "示例作品第 15 条 #剧情",
+  "create_time": 1762271256,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 64000,
+  "stats": {
+   "digg_count": 79,
+   "comment_count": 3,
+   "collect_count": 5,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "搞笑",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300813800728398013",
+  "desc": "示例作品第 14 条 #搞笑",
+  "create_time": 1761519386,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 19000,
+  "stats": {
+   "digg_count": 165,
+   "comment_count": 6,
+   "collect_count": 11,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300986830703750946",
+  "desc": "示例作品第 13 条 #短剧",
+  "create_time": 1760675209,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 90000,
+  "stats": {
+   "digg_count": 241,
+   "comment_count": 9,
+   "collect_count": 16,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "短剧"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300755776416020088",
+  "desc": "示例作品第 12 条 #短剧",
+  "create_time": 1759873297,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 15000,
+  "stats": {
+   "digg_count": 248,
+   "comment_count": 9,
+   "collect_count": 16,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300642339319445528",
+  "desc": "示例作品第 11 条 #搞笑",
+  "create_time": 1759174561,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 50000,
+  "stats": {
+   "digg_count": 145,
+   "comment_count": 5,
+   "collect_count": 9,
+   "share_count": 3,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300365549483901963",
+  "desc": "示例作品第 10 条 #搞笑",
+  "create_time": 1758358214,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 14000,
+  "stats": {
+   "digg_count": 104,
+   "comment_count": 4,
+   "collect_count": 6,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "剧情",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300997942030980525",
+  "desc": "示例作品第 9 条 #情感",
+  "create_time": 1757587500,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 15000,
+  "stats": {
+   "digg_count": 236,
+   "comment_count": 9,
+   "collect_count": 15,
+   "share_count": 6,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300968911230275477",
+  "desc": "示例作品第 8 条 #短剧",
+  "create_time": 1756735350,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 52000,
+  "stats": {
+   "digg_count": 345,
+   "comment_count": 13,
+   "collect_count": 23,
+   "share_count": 9,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300246325036003554",
+  "desc": "示例作品第 7 条 #情感",
+  "create_time": 1755984855,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 21000,
+  "stats": {
+   "digg_count": 160,
+   "comment_count": 6,
+   "collect_count": 10,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300531289112479586",
+  "desc": "示例作品第 6 条 #情感",
+  "create_time": 1755235252,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 45000,
+  "stats": {
+   "digg_count": 133,
+   "comment_count": 5,
+   "collect_count": 8,
+   "share_count": 3,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "搞笑",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300744912262789859",
+  "desc": "示例作品第 5 条 #短剧",
+  "create_time": 1754510528,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 39000,
+  "stats": {
+   "digg_count": 186,
+   "comment_count": 7,
+   "collect_count": 12,
+   "share_count": 4,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300730317405189796",
+  "desc": "示例作品第 4 条 #短剧",
+  "create_time": 1753678320,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 37000,
+  "stats": {
+   "digg_count": 95,
+   "comment_count": 3,
+   "collect_count": 6,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "剧情"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300382417039958581",
+  "desc": "示例作品第 3 条 #情感",
+  "create_time": 1752912575,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 83000,
+  "stats": {
+   "digg_count": 203,
+   "comment_count": 8,
+   "collect_count": 13,
+   "share_count": 5,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300639360902549768",
+  "desc": "示例作品第 2 条 #剧情",
+  "create_time": 1752129662,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 18000,
+  "stats": {
+   "digg_count": 94,
+   "comment_count": 3,
+   "collect_count": 6,
+   "share_count": 2,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "短剧",
+   "情感"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ },
+ {
+  "aweme_id": "7300147629060930412",
+  "desc": "示例作品第 1 条 #搞笑",
+  "create_time": 1751398761,
+  "is_top": 0,
+  "aweme_type": 0,
+  "duration": 16000,
+  "stats": {
+   "digg_count": 414,
+   "comment_count": 16,
+   "collect_count": 27,
+   "share_count": 11,
+   "play_count": 0
+  },
+  "media_type": 4,
+  "images": 0,
+  "tags": [
+   "情感",
+   "搞笑"
+  ],
+  "video_tag": [
+   "剧情"
+  ],
+  "author_uid": "7172025014804796836"
+ }
+]

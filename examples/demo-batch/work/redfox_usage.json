@@ -1,0 +1,49 @@
+{
+ "budget": 200,
+ "reserve": 20,
+ "calls": [
+  {
+   "time": "2026-10-01T11:10:00",
+   "endpoint": "/story/api/dyUser/queryData",
+   "tag": "demo-demo_a-0",
+   "code": 2000,
+   "cost": 0
+  },
+  {
+   "time": "2026-10-01T11:11:00",
+   "endpoint": "/story/api/dy/data/listWorkByAccount",
+   "tag": "demo-demo_a-1",
+   "code": 2000,
+   "cost": 0
+  },
+  {
+   "time": "2026-10-01T11:12:00",
+   "endpoint": "/story/api/dyUser/queryData",
+   "tag": "demo-demo_b-0",
+   "code": 2000,
+   "cost": 0
+  },
+  {
+   "time": "2026-10-01T11:13:00",
+   "endpoint": "/story/api/dy/data/listWorkByAccount",
+   "tag": "demo-demo_b-1",
+   "code": 3203,
+   "cost": 0
+  },
+  {
+   "time": "2026-10-01T11:14:00",
+   "endpoint": "/story/api/dyUser/queryData",
+   "tag": "demo-demo_c-0",
+   "code": 3203,
+   "cost": 0
+  },
+  {
+   "time": "2026-10-01T11:15:00",
+   "endpoint": "/story/api/dy/data/listWorkByAccount",
+   "tag": "demo-demo_c-1",
+   "code": 3203,
+   "cost": 0
+  }
+ ],
+ "cumulative_cost": 0
+}

@@ -1,0 +1,19 @@
+{
+ "_说明": "合成示例批次：全部数据由 scripts/tools/make_demo_batch.py 生成，不含真实账号。",
+ "batch": "demo",
+ "work_dir": "work",
+ "preview_dir": "preview",
+ "preview_url": "",
+ "listing": "listing/filtered.json",
+ "qual": "qual.json",
+ "mode": "simple",
+ "date": "2026-10-01",
+ "analysis_time": "2026-10-01 12:00",
+ "collect_time": "2026-10-01 10:00~11:30",
+ "title": "{n} 个示例抖音号：粉丝质量调研报告",
+ "cover_title": "抖音账号粉丝质量调研报告（示例）",
+ "cover_subtitle": "{n} 个合成示例账号",
+ "data_sources": "合成示例数据（演示用）",
+ "cover_sources": "合成示例数据（演示用）",
+ "short_names": {}
+}

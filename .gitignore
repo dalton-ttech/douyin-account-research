@@ -1,0 +1,51 @@
+# 密钥与本地环境
+.env
+.env.*
+*.key
+*.pem
+redfox_key*
+
+# 本地公开检查名单（账号 ID、昵称、人名等），只放本机
+.public-denylist.txt
+
+# 批次配置与真实采集数据放仓库外；万一放在仓库根目录下也不提交
+# （examples/ 下的合成示例数据和样张要提交，所以这里只匹配根目录）
+/config/*.json
+!/config/batch.example.json
+/work/
+/data/
+/preview/
+/output/
+/batches/
+/data_final/
+/shots*/
+/xingtu_data/
+/redfox_data/
+/locks/
+/logs/
+*.log
+
+# 合成示例批次：只提交 make_demo_batch.py 写出的输入数据；跑报告产生的结果不提交（样张见 examples/output/）
+/examples/demo-batch/preview/*
+!/examples/demo-batch/preview/overview-assets/
+/examples/demo-batch/work/analysis_posts.json
+/examples/demo-batch/work/fans_analysis.json
+/examples/demo-batch/work/comments_analysis.json
+/examples/demo-batch/work/coverage.csv
+/examples/demo-batch/work/parts/*
+!/examples/demo-batch/work/parts/assets_manifest.json
+/examples/demo-batch/work/logs/
+
+# Python / Node
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

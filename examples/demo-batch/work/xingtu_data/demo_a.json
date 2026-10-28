@@ -1,0 +1,335 @@
+{
+"id": "demo_a",
+"t": "2026-10-01T12:00:00+08:00",
+"found": true,
+"match": "unique_id",
+"search": {
+"total": 1,
+"authors": [
+{
+"id": "7100000000000000001",
+"nick_name": "示例账号A",
+"follower": "86000",
+"core_user_id": "7357567600870308024",
+"fans_increment_within_30d": "1260",
+"link_star_index": "62.5",
+"link_spread_index": "58.1",
+"link_shopping_index": "41.3",
+"link_convert_index": "37.9",
+"expected_play_num": "21000",
+"tags_relation": "{\"亲子\": [], \"生活\": []}",
+"province": "广东",
+"city": "广州"
+}
+]
+},
+"searchText": "找到 1 个达人（示例）",
+"aid": "7100000000000000001",
+"api": {
+"base": {
+"s": 200,
+"b": {
+"unique_id": "demo_a",
+"nick_name": "示例账号A",
+"follower": 86000,
+"core_user_id": "7357567600870308024"
+}
+},
+"fans_all": {
+"s": 200,
+"b": {
+"distributions": [
+{
+"type_display": "性别分布",
+"description": "粉丝性别",
+"distribution_list": [
+{
+"distribution_key": "female",
+"distribution_value": 620
+},
+{
+"distribution_key": "male",
+"distribution_value": 380
+}
+]
+},
+{
+"type_display": "年龄分布",
+"description": "粉丝年龄",
+"distribution_list": [
+{
+"distribution_key": "18-23",
+"distribution_value": 90
+},
+{
+"distribution_key": "24-30",
+"distribution_value": 210
+},
+{
+"distribution_key": "31-40",
+"distribution_value": 360
+},
+{
+"distribution_key": "41-50",
+"distribution_value": 240
+},
+{
+"distribution_key": "50-",
+"distribution_value": 100
+}
+]
+},
+{
+"type_display": "省份分布",
+"description": "粉丝地域",
+"distribution_list": [
+{
+"distribution_key": "广东",
+"distribution_value": 160
+},
+{
+"distribution_key": "河南",
+"distribution_value": 90
+},
+{
+"distribution_key": "山东",
+"distribution_value": 80
+},
+{
+"distribution_key": "江苏",
+"distribution_value": 70
+},
+{
+"distribution_key": "四川",
+"distribution_value": 60
+},
+{
+"distribution_key": "其他",
+"distribution_value": 540
+}
+]
+},
+{
+"type_display": "城市等级分布",
+"description": "粉丝城市等级",
+"distribution_list": [
+{
+"distribution_key": "一线",
+"distribution_value": 120
+},
+{
+"distribution_key": "新一线",
+"distribution_value": 190
+},
+{
+"distribution_key": "二线",
+"distribution_value": 200
+},
+{
+"distribution_key": "三线",
+"distribution_value": 230
+},
+{
+"distribution_key": "四线及以下",
+"distribution_value": 260
+}
+]
+},
+{
+"type_display": "八大人群分布",
+"description": "八大人群",
+"distribution_list": [
+{
+"distribution_key": "精致妈妈",
+"distribution_value": 330
+},
+{
+"distribution_key": "小镇中老年",
+"distribution_value": 210
+},
+{
+"distribution_key": "都市白领",
+"distribution_value": 150
+},
+{
+"distribution_key": "其他",
+"distribution_value": 310
+}
+]
+}
+]
+}
+},
+"spread_p90": {
+"s": 200,
+"b": {
+"play_mid": 18500,
+"play_over_rate": {
+"value": 2350
+},
+"interact_rate": {
+"value": 610
+},
+"item_rate": {
+"play_mid": {
+"overtake": 6400
+}
+},
+"item_num": 17,
+"like_avg": 2050
+}
+},
+"daily_fans": {
+"s": 200,
+"b": {
+"daily": [
+{
+"date": "2026-09-01",
+"fans_cnt": 84740
+},
+{
+"date": "2026-09-02",
+"fans_cnt": 84782
+},
+{
+"date": "2026-09-03",
+"fans_cnt": 84824
+},
+{
+"date": "2026-09-04",
+"fans_cnt": 84866
+},
+{
+"date": "2026-09-05",
+"fans_cnt": 84908
+},
+{
+"date": "2026-09-06",
+"fans_cnt": 84950
+},
+{
+"date": "2026-09-07",
+"fans_cnt": 84992
+},
+{
+"date": "2026-09-08",
+"fans_cnt": 85034
+},
+{
+"date": "2026-09-09",
+"fans_cnt": 85076
+},
+{
+"date": "2026-09-10",
+"fans_cnt": 85118
+},
+{
+"date": "2026-09-11",
+"fans_cnt": 85160
+},
+{
+"date": "2026-09-12",
+"fans_cnt": 85202
+},
+{
+"date": "2026-09-13",
+"fans_cnt": 85244
+},
+{
+"date": "2026-09-14",
+"fans_cnt": 85286
+},
+{
+"date": "2026-09-15",
+"fans_cnt": 85328
+},
+{
+"date": "2026-09-16",
+"fans_cnt": 85370
+},
+{
+"date": "2026-09-17",
+"fans_cnt": 85412
+},
+{
+"date": "2026-09-18",
+"fans_cnt": 85454
+},
+{
+"date": "2026-09-19",
+"fans_cnt": 85496
+},
+{
+"date": "2026-09-20",
+"fans_cnt": 85538
+},
+{
+"date": "2026-09-21",
+"fans_cnt": 85580
+},
+{
+"date": "2026-09-22",
+"fans_cnt": 85622
+},
+{
+"date": "2026-09-23",
+"fans_cnt": 85664
+},
+{
+"date": "2026-09-24",
+"fans_cnt": 85706
+},
+{
+"date": "2026-09-25",
+"fans_cnt": 85748
+},
+{
+"date": "2026-09-26",
+"fans_cnt": 85790
+},
+{
+"date": "2026-09-27",
+"fans_cnt": 85832
+},
+{
+"date": "2026-09-28",
+"fans_cnt": 85874
+},
+{
+"date": "2026-09-29",
+"fans_cnt": 85916
+},
+{
+"date": "2026-09-30",
+"fans_cnt": 85958
+},
+{
+"date": "2026-10-01",
+"fans_cnt": 86000
+}
+]
+}
+},
+"marketing": {
+"s": 200,
+"b": {
+"price_info": [
+{
+"desc": "1-20s 视频",
+"price": 1800
+},
+{
+"desc": "21-60s 视频",
+"price": 2600
+}
+]
+}
+},
+"contract": {
+"s": 200,
+"b": {
+"new_credit_score": 100
+}
+}
+}
+}

@@ -1,0 +1,79 @@
+{
+ "accounts": {
+  "demo_a": {
+   "accountId": "demo_a",
+   "nickname": "示例账号A",
+   "followerCount": 86000,
+   "totalFavorited": 118921,
+   "awemeCount": 48,
+   "ipLocation": "广东",
+   "gender": "女",
+   "age": null,
+   "province": "广东",
+   "city": "广州",
+   "crawlTime": "2026-09-28 08:12:00",
+   "similarAccounts": [
+    {
+     "nickname": "示例相似号1"
+    },
+    {
+     "nickname": "示例相似号2"
+    },
+    {
+     "nickname": "示例相似号3"
+    }
+   ],
+   "works": []
+  },
+  "demo_b": {
+   "accountId": "demo_b",
+   "nickname": "示例账号B",
+   "followerCount": 268000,
+   "totalFavorited": 58243,
+   "awemeCount": 36,
+   "ipLocation": "广东",
+   "gender": "女",
+   "age": null,
+   "province": "广东",
+   "city": "广州",
+   "crawlTime": "2026-05-12 21:40:00",
+   "similarAccounts": [
+    {
+     "nickname": "示例相似号1"
+    },
+    {
+     "nickname": "示例相似号2"
+    },
+    {
+     "nickname": "示例相似号3"
+    }
+   ],
+   "works": []
+  },
+  "demo_c": {
+   "_not_found": true,
+   "code": 3203,
+   "msg": "未收录"
+  }
+ },
+ "works": {
+  "demo_a": {
+   "code": 2000,
+   "msg": "成功",
+   "total": 45,
+   "list": []
+  },
+  "demo_b": {
+   "code": 3203,
+   "msg": "未收录",
+   "total": null,
+   "list": []
+  },
+  "demo_c": {
+   "code": 3203,
+   "msg": "未收录",
+   "total": null,
+   "list": []
+  }
+ }
+}

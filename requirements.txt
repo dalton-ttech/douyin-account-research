@@ -1,0 +1,6 @@
+# Python 3.10+
+# 浏览器采集脚本（scripts/collect/*.mjs）运行在 ego-browser 的 Node 环境里，不需要 npm 依赖。
+pillow>=10
+numpy>=1.24
+pymupdf>=1.23
+playwright>=1.40

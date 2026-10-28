@@ -1,0 +1,19 @@
+{
+ "id": "demo_b",
+ "uid": "7172025014804796836",
+ "fetched_at": "2026-10-01T12:00:00+08:00",
+ "pages": [],
+ "probes": [],
+ "followers": [],
+ "flags": [],
+ "own": {
+  "fans": 230000,
+  "max": 268000,
+  "likes": null,
+  "works": 36,
+  "nick": "示例账号B"
+ },
+ "blocked": true,
+ "privacy": true,
+ "profiles": []
+}

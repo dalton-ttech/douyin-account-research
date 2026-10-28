@@ -1,0 +1,39 @@
+{
+"id": "demo_b",
+"t": "2026-10-01T12:00:00+08:00",
+"found": false,
+"match": null,
+"search": {
+"total": 1,
+"authors": [
+{
+"id": "7100000000000000002",
+"nick_name": "示例相似号",
+"follower": "12300",
+"core_user_id": "123",
+"fans_increment_within_30d": "1260",
+"link_star_index": "62.5",
+"link_spread_index": "58.1",
+"link_shopping_index": "41.3",
+"link_convert_index": "37.9",
+"expected_play_num": "21000",
+"tags_relation": "{\"亲子\": [], \"生活\": []}",
+"province": "广东",
+"city": "广州"
+}
+]
+},
+"searchText": "找到 1 个达人（示例）",
+"aid": "7100000000000000002",
+"api": {
+"base": {
+"s": 200,
+"b": {
+"unique_id": "demo_b8",
+"nick_name": "示例相似号",
+"follower": 12300,
+"core_user_id": "123"
+}
+}
+}
+}

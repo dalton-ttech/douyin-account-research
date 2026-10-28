@@ -1,0 +1,83 @@
+{
+ "demo_a": {
+  "nickname": "示例账号A",
+  "gender": "女",
+  "region": "广东",
+  "verified": "无",
+  "avatar": "overview-assets/demo_a/avatar.jpg",
+  "covers": [
+   {
+    "file": "overview-assets/demo_a/cover1.jpg",
+    "likes": 28000,
+    "date": "2026-07-22",
+    "desc": "示例作品第 35 条 #宝宝日常",
+    "aweme_id": "7300772511828923626",
+    "role": "点赞最高",
+    "source": "示例占位图"
+   },
+   {
+    "file": "overview-assets/demo_a/cover2.jpg",
+    "likes": 1084,
+    "date": "2026-09-26",
+    "desc": "示例作品第 48 条 #亲子",
+    "aweme_id": "7300997093644874347",
+    "role": "最近非置顶",
+    "source": "示例占位图"
+   }
+  ]
+ },
+ "demo_b": {
+  "nickname": "示例账号B",
+  "gender": "女",
+  "region": "广东",
+  "verified": "无",
+  "avatar": "overview-assets/demo_b/avatar.jpg",
+  "covers": [
+   {
+    "file": "overview-assets/demo_b/cover1.jpg",
+    "likes": 52000,
+    "date": "2026-01-06",
+    "desc": "示例作品第 22 条 #短剧",
+    "aweme_id": "7300518312111477811",
+    "role": "点赞最高",
+    "source": "示例占位图"
+   },
+   {
+    "file": "overview-assets/demo_b/cover2.jpg",
+    "likes": 104,
+    "date": "2026-05-12",
+    "desc": "示例作品第 36 条 #剧情",
+    "aweme_id": "7300108220019118185",
+    "role": "最近非置顶",
+    "source": "示例占位图"
+   }
+  ]
+ },
+ "demo_c": {
+  "nickname": "示例账号C",
+  "gender": "女",
+  "region": "广东",
+  "verified": "无",
+  "avatar": "overview-assets/demo_c/avatar.jpg",
+  "covers": [
+   {
+    "file": "overview-assets/demo_c/cover1.jpg",
+    "likes": 9000,
+    "date": "2025-12-08",
+    "desc": "示例作品第 48 条 #美食",
+    "aweme_id": "7300458223557167492",
+    "role": "点赞最高",
+    "source": "示例占位图"
+   },
+   {
+    "file": "overview-assets/demo_c/cover2.jpg",
+    "likes": 296,
+    "date": "2026-03-13",
+    "desc": "示例作品第 64 条 #家常菜",
+    "aweme_id": "7300387232188325321",
+    "role": "最近非置顶",
+    "source": "示例占位图"
+   }
+  ]
+ }
+}

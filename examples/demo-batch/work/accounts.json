@@ -1,0 +1,32 @@
+{
+ "demo_a": {
+  "found": true,
+  "nickname": "示例账号A",
+  "unique_id": "demo_a",
+  "uid": "7357567600870308024",
+  "sec_uid": "SEC_DEMO_demo_a",
+  "follower_count": 86000,
+  "total_favorited": 121299,
+  "aweme_count": 48
+ },
+ "demo_b": {
+  "found": true,
+  "nickname": "示例账号B",
+  "unique_id": "demo_b",
+  "uid": "7172025014804796836",
+  "sec_uid": "SEC_DEMO_demo_b",
+  "follower_count": 230000,
+  "total_favorited": 59407,
+  "aweme_count": 36
+ },
+ "demo_c": {
+  "found": true,
+  "nickname": "示例账号C",
+  "unique_id": "demo_c",
+  "uid": "7283350565168378165",
+  "sec_uid": "SEC_DEMO_demo_c",
+  "follower_count": 45000,
+  "total_favorited": 34958,
+  "aweme_count": 64
+ }
+}
